@@ -60,3 +60,16 @@
 	--background-modifier-hover: rgba(255,255,255,0.075);
 	--background-modifier-selected: rgba(255,255,255,0.125);
 }
+
+ :root {
+	Translucent custom background 
+	--app-bg: url(https://i.imgur.com/BLgHoqN.jpg);
+	--sidebar-color: rgba(0,0,0, 0.4);
+	--main-content-color: rgba(0,0,0, 0.5);
+
+}
+
+.avatarDecoration-34OC0G,
+.avatarDecoration-2OJuSI {
+    display: none;
+}
